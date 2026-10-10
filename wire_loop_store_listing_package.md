@@ -4,7 +4,7 @@
 - **App Name / Title:** Wire Loop: Circuit Puzzle
 - **Package ID:** `com.janaire.wireloop`
 - **Developer Name:** Tshiamo Jantjie
-- **Developer Email:** `tshiajan@gmail.com`
+- **Developer Email:** `janaire.dev@gmail.com`
 - **Category:** Puzzle / Brain Games / Casual
 - **Content Rating:** Everyone (PEGI 3 / ESRB Everyone)
 - **Contains Ads:** Yes (Google AdMob rewarded video and interstitial)
@@ -240,7 +240,7 @@ We may update our Privacy Policy periodically to reflect app updates or regulato
 ### 8. Contact Us
 If you have any questions or concerns regarding this Privacy Policy, please contact:
 **Tshiamo Jantjie**  
-Email: **tshiajan@gmail.com**
+Email: **janaire.dev@gmail.com**
 ```
 
 ---
